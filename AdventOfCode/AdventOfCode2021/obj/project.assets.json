@@ -27,7 +27,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://redrow.pkgs.visualstudio.com/_packaging/DotNetDevelopmentFeed/nuget/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "AdventOfCode2021/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AdventOfCode2021.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdventOfCode2021.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AdventOfCode2021/1.0.0": {
+      "type": "project",
+      "path": "../AdventOfCode2021/AdventOfCode2021.csproj",
+      "msbuildProject": "../AdventOfCode2021/AdventOfCode2021.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "AdventOfCode2021 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\josh.birks\\.nuget\\packages\\": {}
@@ -27,12 +46,16 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://redrow.pkgs.visualstudio.com/_packaging/DotNetDevelopmentFeed/nuget/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Workspace\\Training\\AdventOfCode\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021.csproj": {
+              "projectPath": "C:\\Workspace\\Training\\AdventOfCode\\AdventOfCode\\AdventOfCode2021\\AdventOfCode2021.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
