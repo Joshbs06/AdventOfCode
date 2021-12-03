@@ -12,7 +12,8 @@ namespace AdventOfCode
         {
             Console.WriteLine("Advent of Code \n");
             //First();
-            Second();
+            //Second();
+            Third();
         }
 
         private static void First()
@@ -33,12 +34,21 @@ namespace AdventOfCode
             Console.WriteLine("2nd December 2021 \n");
 
             var listOfInstructions = WriteSecondFile();
-            var first2021 = new Second();
-            var productOfCoOrdinates = first2021.CalculateProductOfCoOrdinates(listOfInstructions);
-            var productOfCoOrdinatesWithAim = first2021.CalculateProductOfCoOrdinatesWithAim(listOfInstructions);
+            var second = new Second();
+            var productOfCoOrdinates = second.CalculateProductOfCoOrdinates(listOfInstructions);
+            var productOfCoOrdinatesWithAim = second.CalculateProductOfCoOrdinatesWithAim(listOfInstructions);
 
             Console.WriteLine($"The product of co ordinates is {productOfCoOrdinates}");
             Console.WriteLine($"The product of co ordinates is {productOfCoOrdinatesWithAim}");
+        }
+
+        private static void Third()
+        {
+            var listOfBinaryStrings = WriteThirdFile();
+            var third = new Third();
+            var powerOutput = third.CalculatePowerOutput(listOfBinaryStrings);
+
+            Console.WriteLine($"The power output is {powerOutput}");
         }
 
         private static List<int> WriteFirstFile()
@@ -49,6 +59,11 @@ namespace AdventOfCode
         private static string[] WriteSecondFile()
         {
             return File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, "Resources/2021/SecondDecember.txt")).ToArray();
+        }
+
+        private static string[] WriteThirdFile()
+        {
+            return File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, "Resources/2021/Third.txt")).ToArray();
         }
     }
 }
