@@ -11,14 +11,15 @@ namespace AdventOfCode
         static void Main(string[] args)
         {
             Console.WriteLine("Advent of Code \n");
-            First();
+            //First();
+            Second();
         }
 
         private static void First()
         {
-            Console.WriteLine("!st December 2021 \n");
+            Console.WriteLine("1st December 2021 \n");
 
-            var listOfInts = WriteFileToListOfInts();
+            var listOfInts = WriteFirstFile();
             var first2021 = new First();
             var amountOfIncreases = first2021.CalculateAmountOfIncreases(listOfInts);
             var amountSumOf3Increases = first2021.CalculateAmountOfSumIncreases(listOfInts);
@@ -27,9 +28,27 @@ namespace AdventOfCode
             Console.WriteLine($"There are {amountSumOf3Increases} sum of 3 increases");
         }
 
-        private static List<int> WriteFileToListOfInts()
+        private static void Second()
+        {
+            Console.WriteLine("2nd December 2021 \n");
+
+            var listOfInstructions = WriteSecondFile();
+            var first2021 = new Second();
+            var productOfCoOrdinates = first2021.CalculateProductOfCoOrdinates(listOfInstructions);
+            var productOfCoOrdinatesWithAim = first2021.CalculateProductOfCoOrdinatesWithAim(listOfInstructions);
+
+            Console.WriteLine($"The product of co ordinates is {productOfCoOrdinates}");
+            Console.WriteLine($"The product of co ordinates is {productOfCoOrdinatesWithAim}");
+        }
+
+        private static List<int> WriteFirstFile()
         {
             return File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, "Resources/2021/FirstDecember.txt")).Select(int.Parse).ToList();
+        }
+
+        private static string[] WriteSecondFile()
+        {
+            return File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, "Resources/2021/SecondDecember.txt")).ToArray();
         }
     }
 }

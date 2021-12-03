@@ -26,17 +26,12 @@ namespace AdventOfCode2021
 
             for (int i = 1; i < (values.Count - 2); i++)
             {
-                amountOfSumIncreases += (SumOf3Values(values[i - 1], values[i], values[i + 1]) < SumOf3Values(values[i], values[i + 1], values[i + 2]))
+                amountOfSumIncreases += values[i + 2] > values[i - 1]
                     ? 1
                     : 0;
             }
 
             return amountOfSumIncreases;
-        }
-
-        private int SumOf3Values(int a, int b, int c)
-        {
-            return a + b + c;
         }
     }
 }

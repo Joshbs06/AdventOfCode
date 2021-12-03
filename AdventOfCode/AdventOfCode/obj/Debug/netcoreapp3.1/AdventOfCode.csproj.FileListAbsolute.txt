@@ -16,3 +16,4 @@ C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreap
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode2021.pdb
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\FirstDecember.txt
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CopyComplete
+C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\SecondDecember.txt
