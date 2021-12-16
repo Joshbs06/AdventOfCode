@@ -47,8 +47,10 @@ namespace AdventOfCode
             var listOfBinaryStrings = WriteThirdFile();
             var third = new Third();
             var powerOutput = third.CalculatePowerOutput(listOfBinaryStrings);
+            var lifeSupport = third.CalculateLifeSupport(listOfBinaryStrings);
 
             Console.WriteLine($"The power output is {powerOutput}");
+            Console.WriteLine($"The life support output is {lifeSupport}");
         }
 
         private static List<int> WriteFirstFile()

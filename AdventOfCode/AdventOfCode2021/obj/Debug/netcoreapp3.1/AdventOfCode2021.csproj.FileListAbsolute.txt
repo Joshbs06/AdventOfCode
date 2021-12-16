@@ -8,3 +8,13 @@ C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netco
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.csproj.CoreCompileInputs.cache
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.dll
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.pdb
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.deps.json
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.dll
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\bin\Debug\netcoreapp3.1\AdventOfCode2021.pdb
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.csproj.AssemblyReference.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.AssemblyInfoInputs.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.AssemblyInfo.cs
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.csproj.CoreCompileInputs.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.dll
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode2021\obj\Debug\netcoreapp3.1\AdventOfCode2021.pdb

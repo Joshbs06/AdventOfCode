@@ -18,3 +18,23 @@ C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreap
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CopyComplete
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\SecondDecember.txt
 C:\Workspace\Training\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\Third.txt
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\FirstDecember.txt
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\SecondDecember.txt
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\2021\Third.txt
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.exe
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.deps.json
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.json
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.dev.json
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.dll
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.pdb
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode2021.dll
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode2021.pdb
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.AssemblyReference.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfoInputs.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CoreCompileInputs.cache
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CopyComplete
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
+D:\Workspace\Coding\Projects\Advent Of Code\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
